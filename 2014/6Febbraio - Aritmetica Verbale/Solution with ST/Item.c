@@ -7,7 +7,7 @@
 
 
 /*
- * Criptatore.c
+ * Item.c
  *
  *  Created on: 24 gen 2020
  *      Author: lorenzo
@@ -56,7 +56,6 @@ void SOLgen(Item item){
 	for(int i=0; i<STgetN(item->st); i++){
 		printf("%c %d \n",item->vet[i],sol[i]);
 	}
-	printf("%d",STgetN(item->st));
 }
 
 
