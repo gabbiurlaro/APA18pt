@@ -6,13 +6,6 @@
  */
 
 
-/*
- * Item.c
- *
- *  Created on: 24 gen 2020
- *      Author: lorenzo
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "Item.h"
