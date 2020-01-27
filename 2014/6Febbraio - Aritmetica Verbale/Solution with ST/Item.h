@@ -21,7 +21,6 @@ typedef struct item{
 
 Item ITEMinit(int maxl, int maxs);
 void SOLgen(Item item);
-void STRINGset(Set dest,char *string);
 int STRINGconv(char *string, ST st,int max,int *sol);
 int SOLcheck(Item item, int *sol);
 
